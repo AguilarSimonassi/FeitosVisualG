@@ -1,4 +1,4 @@
-Algoritmo "Duração"
+Algoritmo "DuraÃ§Ã£o"
 
 Var
 
@@ -6,7 +6,7 @@ Var
 
 Inicio
 
-   escreva ("Digite a duração em srgundos: ")
+   escreva ("Digite a duraÃ§Ã£o em segundos: ")
    leia (dura)
    
    horas <- dura \ 3600
